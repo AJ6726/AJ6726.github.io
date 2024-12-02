@@ -95,10 +95,10 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn:
+cdn: https://cdn.flashtalking.com/136864/instantAssets/TealCircleOption_Glitter_970x250.png
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://static.wikia.nocookie.net/madeinabyss/images/f/ff/Srajo_Manga_Square_New.jpg/revision/latest/scale-to-width-down/1000?cb=20220701233020
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
